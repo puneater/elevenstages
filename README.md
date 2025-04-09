@@ -1,4 +1,4 @@
-# NeuroGrow - Lite
+# [NeuroGrow - Lite](https://elevenstages.vercel.app/)
 
 An interactive Next.js application that displays recommended developmental milestones for children, assigned to me by [Mindly](https://mindly.care/). Designed with parents, pediatricians, and caregivers in mind, the app allows users to easily view, filter, and interact with milestone data (e.g., Cognitive, Motor, and Social milestones) retrieved dynamically from a Firebase Firestore database.
 
