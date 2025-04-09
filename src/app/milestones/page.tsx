@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import { getDocs, collection } from "firebase/firestore";
 import { db } from "@/firebase/clientApp";
-import MilestoneCard, { Milestone } from "@/components/MilestoneCard";
+import MilestoneCard from "@/components/MilestoneCard";
 
 const ageMapping: Record<number, string> = {
     1: "Birth to 2 Months",
