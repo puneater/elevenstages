@@ -1,3 +1,27 @@
+# NeuroGrow - Lite
+
+An interactive Next.js application that displays recommended developmental milestones for children, assigned to me by [Mindly](https://mindly.care/). Designed with parents, pediatricians, and caregivers in mind, the app allows users to easily view, filter, and interact with milestone data (e.g., Cognitive, Motor, and Social milestones) retrieved dynamically from a Firebase Firestore database.
+
+## Disclaimer
+
+**Note:** The milestones provided in this application are intended as guidelines only. They are recommended developmental milestones and should not be used as a diagnostic tool. If you have concerns regarding your child's development, please consult a qualified doctor or pediatric specialist.
+
+## Data Sources
+
+The milestone data in this project is sourced from reputable resources:
+- [NCBI - Child Development](https://www.ncbi.nlm.nih.gov/books/NBK534819/)
+- [Healthy Young Minds - Child Development](https://www.healthyyoungminds.com/child-development/)
+
+## Technologies
+
+- **Next.js**: A React framework for building production-grade web applications.
+- **Firebase Firestore**: A cloud-hosted NoSQL database used for storing milestone data.
+- **React & TypeScript**: Modern web development tools for robust and maintainable code.
+- **Tailwind CSS**: A utility-first CSS framework for building custom user interfaces quickly.
+
+
+## About Next.js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
