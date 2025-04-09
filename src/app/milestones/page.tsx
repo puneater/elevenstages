@@ -45,7 +45,7 @@ const MilestonesPage: React.FC = () => {
         fetchMilestones();
     }, []);
 
-    const filteredCards: JSX.Element[] = [];
+    const filteredCards: React.JSX.Element[] = [];
     milestones.forEach((m) => {
         if (filterAge === "" || m.id_age === Number(filterAge)) {
             if ((filterCategory === "" || filterCategory === "Cognitive") && m.cognitive) {
