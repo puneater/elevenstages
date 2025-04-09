@@ -1,0 +1,68 @@
+[
+  {
+    "id_age": 1,
+    "cognitive": "Cognitive input is not required for emotional response at this stage.\nDuring brief periods of alertness, newborns may return a mother's gaze.\nSoon after, infants begin to explore their faces.",
+    "social": "Three distinct emotions are present from birth: anger, joy, and fear, which are revealed by universal facial expressions.\nInfants begin to smile socially in response to parental high-pitched vocalizations or smiles.\nThey recognize the smells and voices of their caregivers and respond to gentle touch.",
+    "motor": "Displays reflexive movements.\nHas limited head control but may briefly lift the head when lying on tummy.\nExhibits spontaneous movements of arms and legs."
+  },
+  {
+    "id_age": 2,
+    "cognitive": "Begins to visually track objects and recognize familiar voices and faces.",
+    "social": "In the first 2 to 3 months, infants learn to regulate physiologically and need smooth routines.\nThey progressively know how to calm themselves, give a responsive smile, and respond to gentle calming.",
+    "motor": "Begins to hold the head up with increased control.\nMakes smoother arm and leg movements.\nMay start to push up slightly during tummy time."
+  },
+  {
+    "id_age": 3,
+    "cognitive": "Around 4 months of age, turn-taking conversations (vocalizations) begin and infants learn to manipulate the environment.",
+    "social": "Sensitive cooperative interaction with caregivers helps infants learn how to manage tension.\nThey let their caregivers know whether taking away their toy upsets them or if they are happy when held.\nA sensitive but firm response from the caregiver helps infants manage emotional stress.\nThey can recognize the primary caregiver by sight at around 5 months of age.",
+    "motor": "Starts to roll over.\nReaches for objects.\nSupports the upper body on forearms during tummy time.\nDemonstrates improved coordination and smoother movements."
+  },
+  {
+    "id_age": 4,
+    "cognitive": "Around 8 months of age, joint attention skills develop.\nInfants look in the same direction as their caregivers and follow their gaze.\nEventually, they look back at the caregiver to show that they share the experience.",
+    "social": "Effective attachment relationships establish with a responsive caregiver.\nStranger anxiety emerges as infants distinguish between the familiar and the unfamiliar.\nInfants become mutually engaged in their interactions with caregivers and seek a caregiver for comfort, help, and play.\nThey show distress upon separation.",
+    "motor": "Sits without support.\nBegins to crawl.\nMay start to stand with support.\nDevelops fine motor skills such as grasping objects and using a pincer grasp."
+  },
+  {
+    "id_age": 5,
+    "cognitive": "By 12 months of age, proto-imperative pointing emerges.\nProto-declarative pointing follows at 16 months when children point with eye-gaze coordination to show interest.",
+    "social": "The child takes part in interactive play like peek-a-boo and pat-a-cake.\nThey use gestures to wave bye-bye and communicate their interests and needs.\nAt around 15 months of age, empathy and self-conscious emotions emerge.\nA child reacts by looking upset when they see someone cry or feels pride when applauded for doing a task.\nThe child imitates his environment, helps with simple household tasks, and explores the environment more independently.",
+    "motor": "Walks independently.\nMay begin to run.\nClimbs onto furniture.\nDevelops fine motor skills such as stacking blocks and scribbling."
+  },
+  {
+    "id_age": 6,
+    "cognitive": "Around 18 to 24 months, they learn to pretend-play, such as talking on a toy phone or feeding a doll and playing next to or in parallel with another child.",
+    "social": "Individuation (autonomy) emerges.\nThe child's temperament manifests itself more, and they can be aggressive, reserved, friendly, or cooperative.\nDuring preschool years, they learn to manipulate their emotions into more socially accepted gestures.\nThey might use a \"poker face\", exaggerating or minimizing emotions for social etiquette.\nFor example, they say thank you for a present they didn't like.\nThe child refers to himself as \"I\" or \"me,\" and signs of possessiveness and negativism (like saying \"no\") may emerge.",
+    "motor": "Runs, climbs stairs with assistance, jumps with both feet, and demonstrates improved coordination.\nMay begin to kick a ball."
+  },
+  {
+    "id_age": 7,
+    "cognitive": "At 30 months, pretend play skills emerge, and the child shows evidence of symbolic play by using an object as something different—like pretending a block is a telephone or a bottle to feed a doll.\nPlay scenarios become more complex with themes and storylines.\nBy 3 years of age, the child engages more in interactive play, masters aggression, and learns cooperation and sharing skills.\nImaginative and fantasy play, such as pretending to be a cat, help develop role-play skills.\nThey typically learn to differentiate between reality and imagination around 4 years of age.",
+    "social": "Impulse control, gender roles, and peer relationship issues emerge.\nA caregiver plays a major role in helping preschoolers define values and learn flexible self-control.\nTesting limits on acceptable behaviors and autonomy is an expected phenomenon.\nThey can play with 1 or 2 peers using turn-taking and joint goals.\nThe child may still be uncertain about the difference between reality and imagination and can be wary of imaginary things.\nThey also enjoy playful tricks with friends.",
+    "motor": "Improved balance and coordination.\nCan run, hop, and skip.\nBegins to throw and catch a ball.\nRefines fine motor skills such as drawing and using utensils."
+  },
+  {
+    "id_age": 8,
+    "cognitive": "The child can follow simple rules and directions.\nImaginative play becomes more complex.",
+    "social": "They learn adult social skills like giving praise and apologizing for unintentional mistakes.\nThey enjoy spending time in peer groups and relating to a circle of friends.",
+    "motor": "Refined balance and coordination.\nAble to ride a bicycle with training wheels.\nTies shoelaces.\nEngages in activities that require fine motor precision."
+  },
+  {
+    "id_age": 9,
+    "cognitive": "The child fully understands rules and regulations and explores new ideas and activities.",
+    "social": "They show a deeper understanding of relationships and responsibilities, can take charge of simple chores, and develop more complex coping skills.\nPeer influence increases as children identify more with others of the same gender and may have a best friend in common.",
+    "motor": "Further refined gross motor skills.\nCapable of riding a bicycle without training wheels.\nParticipates in team sports.\nDemonstrates improved agility, coordination, and strength."
+  },
+  {
+    "id_age": 10,
+    "cognitive": "Children show increasing independent decision-making and build self-confidence and self-assurance through supportive guidance.",
+    "social": "Peer and friend groups take precedence over family.\nChildren show a growing need for independence from family.\nParents can use responsibilities and chores to earn time with friends.\nPromoting supportive adult relationships and opportunities for community activities increases resilience.",
+    "motor": "Exhibits refined motor skills with greater endurance.\nEngages in complex physical activities.\nDemonstrates improved strength, agility, and coordination."
+  },
+  {
+    "id_age": 11,
+    "cognitive": "As young adulthood approaches, school success and work-related activities become important.\nThis requires the ability to cope with stress through healthy adult relationships and independent decision-making.",
+    "social": "Greater independence and commitment to peer groups drive the transition to adolescence.\nThis includes exploring risky behavior to understand uncertain emotions and impress peers.\nSocial interactions become more complex with relationships, disagreements, breakups, new friendships, and long-lasting bonds.",
+    "motor": "Exhibits near adult-level motor skills with continued refinement in fine motor tasks.\nShows physical growth, increased strength, and endurance."
+  }
+]
