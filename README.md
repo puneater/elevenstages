@@ -8,7 +8,7 @@ An interactive Next.js application that displays recommended developmental miles
 
 ## Data Sources
 
-The milestone data in this project is sourced from reputable resources:
+The milestone data in this project is sourced from:
 - [NCBI - Child Development](https://www.ncbi.nlm.nih.gov/books/NBK534819/)
 - [Healthy Young Minds - Child Development](https://www.healthyyoungminds.com/child-development/)
 
